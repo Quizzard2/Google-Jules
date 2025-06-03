@@ -1,6 +1,6 @@
-# Lavda Minds - AI Translation Tool
+# Create a Minds - AI Translation Tool
 
-This project is a web-based AI-powered translation tool developed by Lavda Minds. It allows users to translate text between over 100 languages instantly.
+This project is a web-based AI-powered translation tool developed by Create a Minds. It allows users to translate text between over 100 languages instantly.
 
 ## Features
 
@@ -69,7 +69,7 @@ Contributions to improve this tool are welcome. You can contribute by:
 
 ## License
 
-This project does not currently have a specified license. Please assume all rights are reserved by Lavda Minds. If you wish to use or distribute this code, please contact Lavda Minds for permission.
+This project does not currently have a specified license. Please assume all rights are reserved by Create a Minds. If you wish to use or distribute this code, please contact Create a Minds for permission.
 ---
 
 *This README was generated based on an analysis of the `translation.html` file.*
