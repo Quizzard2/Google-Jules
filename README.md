@@ -69,7 +69,7 @@ Contributions to improve this tool are welcome. You can contribute by:
 
 ## License
 
-This project does not currently have a specified license. Please assume all rights are reserved by Lavda Minds. If you wish to use or distribute this code, please contact Prompt Minds for permission.
+This project does not currently have a specified license. Please assume all rights are reserved by Lavda Minds. If you wish to use or distribute this code, please contact Lavda Minds for permission.
 ---
 
 *This README was generated based on an analysis of the `translation.html` file.*
