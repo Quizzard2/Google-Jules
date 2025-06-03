@@ -1,6 +1,6 @@
-# Prompt Minds - AI Translation Tool
+# Lavda Minds - AI Translation Tool
 
-This project is a web-based AI-powered translation tool developed by Prompt Minds. It allows users to translate text between over 100 languages instantly.
+This project is a web-based AI-powered translation tool developed by Lavda Minds. It allows users to translate text between over 100 languages instantly.
 
 ## Features
 
